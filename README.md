@@ -7,6 +7,7 @@
 Accepted by **CVPR 2026**
 
 ---
+Code upload is still in progress.
 
 This code was developed with Python 3.10, PyTorch 2.2.2, and CUDA 11.8 on Ubuntu 22.04.
 
